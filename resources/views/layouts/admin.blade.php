@@ -78,7 +78,7 @@
             <ul>
                 <li>Users</li>
                 <li><a href="/cats">Category</a></li>
-                <li>Post</li>
+                <li><a href="/posts">Post</a></li>
                 <li>Gallery</li>
                 <li>Comments</li>
             </ul>

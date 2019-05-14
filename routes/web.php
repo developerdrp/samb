@@ -42,3 +42,4 @@ Route::get('/dashboard','dashboardController@index');
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::resource('cats','CategoryController');
+Route::resource('posts','PostController');
